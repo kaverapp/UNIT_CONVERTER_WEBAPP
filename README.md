@@ -24,3 +24,5 @@ temperature
     fahrenheit to celsius    T(c)=t(F)-32X5/9
     kelvin to fahrenheit     T(F)=t(K)-273.15X9/5
     Kelvin to Celsius:       T(°C)=T(K)−273.15
+
+https://roadmap.sh/projects/unit-converter
